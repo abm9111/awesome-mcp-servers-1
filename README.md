@@ -277,6 +277,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
 
 <br />
+- <img src="https://cdn.simpleicons.org/markdown/4A72B8" height="14"/> [Chamber](https://github.com/abm9111/chamber) - Cited Q&A and drift detection over local markdown notes. Answers cite exact passages, cited passages are hashed at citation time, and a scheduled verify flags when a source changed under a conclusion already drawn from it. Local-first, zero runtime dependencies (node:sqlite).
 
 ## ⚡ <a name="cloud-platforms"></a>Cloud Platforms
 
